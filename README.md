@@ -1,48 +1,26 @@
 # Interpretabel Machine Learning
 
-This Page provides some learning materials and notes for **Interpretable Machine Learning** and I would like to share some of my personal opinions on some papers.
+1. This page provides some learning materials and notes for Interpretable Machine Learning and I would like to share my personal opinions on some papers.
 
-## **What** is Interpretability and **Why** we need it
+2. The repository is organized as follows:
 
----
+   - [Introduction](https://github.com/Tao-Han/Interpretabel-Learning/tree/master/Intruduction.md)
+     discussion about the definition, intuition, motivation, evaluation
 
-### The following papers made attepmt to clarify the definition, intension , intuition and motivation of Interpretable Machine Learning.
+   - [Notes](https://github.com/Tao-Han/Interpretabel-Learning/tree/master/Notes)
 
-- [Feb 2016 : "Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) 
-  - Intuition
-    - Explanation components (semantic components as features)
-    - Local fidelity (locally loyal to the model being interpreted)
-    - Limited complexity (rule/feature numbers, tree depth)
-  - Model
-    - LIME: Sparse Linear Model similar to Lasso
+     Here are my notes and understanding during reading these papers in chronological order.
 
-- [Jun 2016 : The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490) 
+   - Tags
 
-- [Feb 2017 : Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608) 
+     I would like to tag these proposed methods with these notations:
 
-### Generally, these papers tried to build up the basis of Interpretable Machine Learning and I would like to summerize here for advice.
+     - auxillary-model : Interprete a complex model with an interpretable one
+     - self-interprete : Design an self-interpretable structure on a complex model
+     - human-experiment : 
 
-- Interpretability is
-  - present abstract concept in an understandable term for humans
-  - ...
+   - Materials
 
-- Interpretability for
-  - the prediction of a specific instance
-  - the mechanism of the whole model
-- Benefit
-  - applications in critical fileds
-  - the performance of model
-  - the study of complex model
-  - ...
-- 
-- Evaluation
-  - Proxy metrics
-  - People invovled
+     Some related learning materials
 
-## **How** can we obtain interpretability?
-
----
-
-The following papers gave us some angles to obtain interpretablity
-
-#
+3. Any discussion and advice is welcome and many thanks.
