@@ -5,13 +5,14 @@
 2. The repository is organized as follows:
 
    - [Introduction](https://github.com/Tao-Han/Interpretabel-Learning/tree/master/Intruduction.md)
+
      *Discussion about the foundations of this topic : definition, intuition, motivation, evaluation*
 
    - [Notes](https://github.com/Tao-Han/Interpretabel-Learning/tree/master/Notes)
 
      *My notes and understandings of papers in chronological order.*
 
-   - Materials
+   - [Materials](https://github.com/Tao-Han/Interpretabel-Learning/tree/master/Materials)
 
      *Some related learning materials*
 
@@ -28,3 +29,4 @@
      - ...
 
 3. Any discussion and advice is welcome and many thanks.
+
