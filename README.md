@@ -16,17 +16,18 @@
 
      *Some related learning materials*
 
-   - Tags
+   - **Tags**
 
      *I would like to tag these papers with these notations*
 
      - auxillary-model : Interprete a complex model with an interpretable one
-     - self-interprete : Design an self-interpretable structure on a complex model
+     - self-interpretable : Design an self-interpretable structure on a complex model
      - human-experiment
-     - proxy metric
+     - proxy function
      - feature based
      - instance based
-     - ...
+     - visualisation
+     - ....
 
 3. Any discussion and advice is welcome and many thanks.
 
