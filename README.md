@@ -1,4 +1,4 @@
-# Interpretabel Machine Learning
+# Interpretable Machine Learning
 
 1. This page provides some learning materials and notes for Interpretable Machine Learning and I would like to share my personal opinions on some papers.
 
